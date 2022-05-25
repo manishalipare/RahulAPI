@@ -21,7 +21,7 @@ public class MyStepDefinion2 {
 
     @Then("^Home page should be displayed$")
     public void home_page_should_be_displayed() throws Throwable {
-        System.out.println("HomePage");
+        System.out.println("changed this for branchb1");
     }
 
 }
